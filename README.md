@@ -1,4 +1,4 @@
-### Hi there 👋
+### In this repository I will publish all the sripts made by me with Python or eventually other coding languages.
 
 <!--
 **ZETEROS/zeteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
